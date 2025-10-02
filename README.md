@@ -1,3 +1,6 @@
+**THIS REPOSITORY IS MOVED TO GITLAB**
+
+
 <img width=300 src="./logo.svg" alt="VHS Logo consisting of a VHS tape, the Video.js logo and the words VHS" />
 
 # videojs-http-streaming (VHS)
